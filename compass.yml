@@ -1,0 +1,14 @@
+name: pwsh-transpiler
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/92ae9477-b7ec-4b82-ba4b-368b76154377
+description: Experimental source-to-source compiler for PowerShell functions.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
